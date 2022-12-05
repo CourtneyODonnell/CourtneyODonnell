@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @CourtneyODonnell
-- 👀 I’m interested in ... web development
-- 🌱 I’m currently learning ... with lighthouse labs
-- 💞️ I’m looking to collaborate on ... something one day soon
+
 
 
 <!---
