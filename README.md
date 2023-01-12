@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CourtneyODonnell
-
+I'm a Full Stack Web Developer
 
 
 <!---
