@@ -1,6 +1,6 @@
 👋 Hi, I’m @CourtneyODonnell
 
-I’m a Full-Stack Web Developer (bilingual English/French) looking for a new role after a decade in administrative work. I enjoy solving problems and improving team productivity. I recreationally dabble in game development and graphic design. Open to collaboration on personal projects. 
+I’m a Full-Stack Web Developer. I enjoy solving problems and improving team productivity. I recreationally dabble in game development and graphic design. Open to collaboration on personal projects. 
 
 Reach me on [LinkedIn](https://www.linkedin.com/in/courtney-i-odonnell/)
 
